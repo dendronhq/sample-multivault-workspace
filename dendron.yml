@@ -16,6 +16,7 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
+    siteUrl: foo.com
     title: Dendron
     description: Personal knowledge space
     duplicateNoteBehavior:
