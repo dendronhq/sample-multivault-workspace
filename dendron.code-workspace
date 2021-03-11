@@ -17,12 +17,12 @@
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on"
+        "editor.tabCompletion": "on",
+        "gitdoc.enabled": false
     },
     "extensions": {
         "recommendations": [
             "dendron.dendron-paste-image",
-            "equinusocio.vsc-material-theme",
             "dendron.dendron-markdown-shortcuts",
             "dendron.dendron-markdown-preview-enhanced",
             "dendron.dendron-markdown-links",
